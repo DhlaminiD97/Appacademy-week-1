@@ -1,0 +1,24 @@
+h1{
+    color: pink;
+    font-family:Monospace ;
+}
+p{
+  color:coral;
+  font-family: Sans-Serif;
+}
+ul{
+  list-style-image:url('Images/pointer-icon.png');
+}
+ol{
+  list-style-type: upper-roman;
+}
+#menu-bar a{
+  font-family: helvetica,Sans-Serif;
+   text-decoration:none ;
+   background-color: aquamarine;
+   padding:5px;
+}
+#menu-bar a:hover{
+        background-color: aqua;
+         color:#ffffff;
+}
